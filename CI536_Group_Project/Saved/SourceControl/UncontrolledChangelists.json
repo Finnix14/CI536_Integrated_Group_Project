@@ -7,6 +7,18 @@
 			"files": [
 				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Lvl_ThirdPerson.umap",
 				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_Legs.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/Characters/BP_Legs.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/Characters/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8R/4RXQYG93SU3WSPSGU29B39.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/Camera/CameraActor_Blueprint.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/AP/XGCI04P5ABBXPRB5C34DYH.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/Input/Actions/IA_Join_Game.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/Input/IMC_Default.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_CameraSwitch.uasset",
+				"C:/Users/MSI/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/Characters/PC_MPGame.uasset",
 				"C:/Users/finle/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/finle/Documents/GitHub/CI536_Integrated_Group_Project/CI536_Group_Project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/TC/A7GRYM89F90KGQUN6UX34T.uasset"
 			]
